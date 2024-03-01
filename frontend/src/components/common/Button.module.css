@@ -2,13 +2,13 @@
     width: 86px;
     height: 32px;
     border-radius: 4px;
-    background: radial-gradient(109.81% 107.82% at 100.1% 90.19%, #0F6CBD 33.63%, #2D87C3 70.31%, #8DDDD8 100%);
+    background: radial-gradient(109.81% 107.82% at 100.1% 90.19%, #bd0f0f 33.63%, #c92a2a 70.31%, #f75c5c 100%);
     padding: 5px 12px;
     margin-right: 20px;
   }
   
   .shareButtonRoot:hover {
-    background: linear-gradient(135deg, #0F6CBD 0%, #2D87C3 51.04%, #8DDDD8 100%);
+    background: linear-gradient(135deg, #bd0f0f 0%, #c0180c 51.04%, #a02323 100%);
   }
   
   .shareButtonRoot span {
